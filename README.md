@@ -1,5 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jan Matthew Pareja Gutierrez
-First year student in DAM's Higher Degree-----------------------------------------I've been in the world of programming for less than a year, but I have had a great passion for it from the first moment.* 🌍  I'm based in Valencia* ✉️  You can contact me at [jmatthewpareja@gmail.com](mailto:jmatthewpareja@gmail.com)* 🧠  I'm learning Android Studio* ⚡  I am a non-professional amateur bodybuilder
+
+First year student in DAM's Higher Degree
+
+I've been in the world of programming for less than a year, but I have had a great passion for it from the first moment.* 🌍  I'm based in Valencia* ✉️  You can contact me at [jmatthewpareja@gmail.com](mailto:jmatthewpareja@gmail.com)* 🧠  I'm learning Android Studio* ⚡  I am a non-professional amateur bodybuilder
 
 ### Skills
 
